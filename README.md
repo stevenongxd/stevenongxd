@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a Software Engineer/Developer
 - 🌱 I’m currently learning Java, SQL, HTML-CSS-JavaScript
 - 🐱 Github:          https://github.com/stevenongxd
-- 🐱 Stackoverflow:   https://stackoverflow.com/users/20942561/steven-ong
+- 💬 Stackoverflow:   https://stackoverflow.com/users/20942561/steven-ong
 - 🏫 W3School:        https://www.w3profile.com/steve
 - 🐱‍💻 Hackerrank:      https://www.hackerrank.com/song24112002
 - 👩‍💻 LeetCode:        https://leetcode.com/stevenongxd/
