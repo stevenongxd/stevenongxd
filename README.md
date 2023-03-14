@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @stevenongxd
-- 👀 I’m interested in being a Software Engineer/Developer
 - 🌱 I’m currently learning Java, SQL, HTML-CSS-JavaScript
 - 🐱 Github:          https://github.com/stevenongxd
 - 💬 Stackoverflow:   https://stackoverflow.com/users/20942561/steven-ong
