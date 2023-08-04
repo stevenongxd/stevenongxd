@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenongxd
-- 🌱 I’m currently learning Java, SQL, HTML-CSS-JavaScript
+- 🌱 I’m currently learning Java, SQL, HTML - CSS (Bootstrap) - JavaScript (React), PHP (Laravel)
 - 🐱 Github:          https://github.com/stevenongxd
 - 💬 Stackoverflow:   https://stackoverflow.com/users/20942561/steven-ong
 - 🏫 W3School:        https://www.w3profile.com/steve
